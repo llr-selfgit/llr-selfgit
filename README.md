@@ -1,14 +1,11 @@
 <h1 align="center">llr-selfgit</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=22&duration=3600&pause=900&color=F05A28&center=true&vCenter=true&width=820&lines=%E6%9F%90%E5%8F%B8%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%8C%E5%85%B3%E6%B3%A8%E6%90%9C%E5%B9%BF%E6%8E%A8%E3%80%81%E5%9B%A0%E6%9E%9C%E6%8E%A8%E6%96%AD%E3%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8BAgent%E7%AD%89%E9%A2%86%E5%9F%9F%E3%80%82"
-    alt="某司算法工程师，关注搜广推、因果推断、大模型Agent等领域。"
-  />
+  <img src="./assets/typing-gradient.svg" alt="某司算法工程师，关注搜广推、因果推断、大模型Agent等领域。" />
 </p>
 
 <p align="center">
-  <img src="./assets/crayon-runner.svg" alt="A crayon-style cartoon kid bouncing from left to right along a line" />
+  <img width="108" src="https://media1.tenor.com/m/QMVrMgWderoAAAAC/crayon-shin-chan-run.gif" alt="Crayon Shin-chan running GIF from Tenor" />
 </p>
 
 <p align="center">
