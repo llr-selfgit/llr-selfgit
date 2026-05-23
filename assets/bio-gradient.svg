@@ -2,13 +2,21 @@
   <title id="title">DS-Digital typing profile bio</title>
   <desc id="desc">Algorithm engineer, curious about search, ads, recommendations, causal inference, and LLM agents.</desc>
   <defs>
+    <style>
+      .glyphs,
+      .cursor {
+        fill: #111111;
+      }
+    </style>
     <clipPath id="typingReveal" clipPathUnits="userSpaceOnUse">
-      <rect x="30" y="0" width="0" height="52">
+      <rect x="30" y="0" width="917.68" height="52">
         <animate attributeName="width" values="0;917.68;917.68;0" keyTimes="0;0.72;0.9;1" dur="9.6s" repeatCount="indefinite" />
       </rect>
     </clipPath>
   </defs>
-  <g fill="#111111" clip-path="url(#typingReveal)" transform="translate(30 38) scale(0.02000000 -0.02000000)">
+  <rect width="1040" height="52" fill="#ffffff" />
+  <g clip-path="url(#typingReveal)">
+    <g class="glyphs" transform="translate(30 38) scale(0.02000000 -0.02000000)">
       <path d="M465 700 391 625H148L74 700ZM135 289V75L60 0V307L88 336ZM60 392V686L135 611V411L88 364ZM479 307V0L405 75V289L452 336ZM405 411V611L479 686V392L452 364ZM400 387 438 350 400 313H139L102 350L139 387Z" transform="translate(0 0)" />
       <path d="M479 0H74L148 75H405ZM135 289V89L60 14V307L88 336ZM60 392V700L135 625V411L88 364Z" transform="translate(539 0)" />
       <path d="M465 700 391 625H148L111 663L148 700ZM438 350 400 313H316L279 350L316 387H400ZM135 411 88 364 60 392V611L97 649L135 611ZM135 89 97 51 60 89V307L88 336L135 289ZM391 0 428 37 391 75H148L111 37L148 0ZM479 89 442 51 405 89V289L452 336L479 307Z" transform="translate(1078 0)" />
@@ -95,8 +103,9 @@
       <path d="M479 700 405 625H135L60 700ZM307 37 269 0 232 37V252L279 299L307 271ZM307 354 279 327 232 373V574L269 611L307 574Z" transform="translate(44612 0)" />
       <path d="M479 663 442 625H148L111 663L148 700H442ZM479 89 442 51 405 89V289L452 336L479 307ZM135 411 88 364 60 392V611L97 649L135 611ZM97 0 60 37 97 75H391L428 37L391 0ZM400 387 438 350 400 313H139L102 350L139 387Z" transform="translate(45151 0)" />
       <path d="M60 0V75H135V0Z" transform="translate(45690 0)" />
+    </g>
   </g>
-  <rect x="30" y="13" width="1.5" height="25" rx="0.75" fill="#111111">
+  <rect class="cursor" x="947.68" y="13" width="1.5" height="25" rx="0.75">
     <animate attributeName="x" values="30;947.68;947.68;30" keyTimes="0;0.72;0.9;1" dur="9.6s" repeatCount="indefinite" />
     <animate attributeName="opacity" values="1;1;0;1" keyTimes="0;0.72;0.86;1" dur="9.6s" repeatCount="indefinite" />
   </rect>
