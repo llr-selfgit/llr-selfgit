@@ -1,11 +1,7 @@
 <h1 align="center">llr-selfgit</h1>
 
 <p align="center">
-  <img src="./assets/typing-gradient.svg" alt="某司算法工程师，关注搜广推、因果推断、大模型Agent等领域。" />
-</p>
-
-<p align="center">
-  <img width="108" src="https://media1.tenor.com/m/QMVrMgWderoAAAAC/crayon-shin-chan-run.gif" alt="Crayon Shin-chan running GIF from Tenor" />
+  <img src="./assets/handwritten-banner.svg" alt="某司算法工程师，关注搜广推、因果推断、大模型Agent等领域。" />
 </p>
 
 <p align="center">
