@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="46" viewBox="0 0 900 46" role="img" aria-labelledby="title desc">
+  <title id="title">Colorful profile bio</title>
+  <desc id="desc">某司算法工程师，关注搜广推、因果推断、大模型Agent等领域。</desc>
+  <defs>
+    <linearGradient id="bioGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="24%" stop-color="#7c3aed" />
+      <stop offset="48%" stop-color="#db2777" />
+      <stop offset="72%" stop-color="#0891b2" />
+      <stop offset="100%" stop-color="#65a30d" />
+    </linearGradient>
+  </defs>
+  <text x="450" y="29" text-anchor="middle" font-family="'SF Pro Text', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15.5" font-weight="600" letter-spacing="0" fill="url(#bioGradient)">
+    某司算法工程师，关注搜广推、因果推断、大模型 Agent 等领域。
+  </text>
+</svg>
