@@ -22,15 +22,3 @@
     <img src="https://img.shields.io/badge/Causal%20Inference-0F766E?style=flat-square" alt="Causal Inference" />
   </a>
 </p>
-
-## Works
-
-| Project | Notes |
-| --- | --- |
-| [R3F Particle Portfolio](https://github.com/llr-selfgit/r3f-particle-portfolio) | 一个围绕 React Three Fiber 单画布、粒子变形和个人网站体验搭建的作品模板。 |
-
-<p>
-  <a href="https://github.com/llr-selfgit/r3f-particle-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=llr-selfgit&repo=r3f-particle-portfolio&theme=transparent&hide_border=true" alt="R3F Particle Portfolio repository card" />
-  </a>
-</p>
