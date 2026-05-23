@@ -9,8 +9,18 @@
       <stop offset="72%" stop-color="#0891b2" />
       <stop offset="100%" stop-color="#65a30d" />
     </linearGradient>
+    <clipPath id="typingReveal">
+      <rect x="102" y="0" width="24" height="46">
+        <animate attributeName="width" values="24;696;696;24" keyTimes="0;0.62;0.86;1" dur="7.2s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
   </defs>
-  <text x="450" y="29" text-anchor="middle" font-family="'SF Pro Text', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15.5" font-weight="600" letter-spacing="0" fill="url(#bioGradient)">
-    某司算法工程师，关注搜广推、因果推断、大模型 Agent 等领域。
-  </text>
+  <g clip-path="url(#typingReveal)">
+    <text x="450" y="29" text-anchor="middle" textLength="696" lengthAdjust="spacingAndGlyphs" font-family="'SF Pro Text', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15.5" font-weight="600" letter-spacing="0" fill="url(#bioGradient)">
+      某司算法工程师，关注搜广推、因果推断、大模型 Agent 等领域。
+    </text>
+  </g>
+  <rect x="126" y="12" width="2" height="22" rx="1" fill="#0891b2">
+    <animate attributeName="x" values="126;798;798;126" keyTimes="0;0.62;0.86;1" dur="7.2s" repeatCount="indefinite" />
+  </rect>
 </svg>

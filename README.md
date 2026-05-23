@@ -23,10 +23,6 @@
   </a>
 </p>
 
-## About
-
-某司算法工程师，关注搜广推、因果推断、大模型 Agent 等领域。
-
 ## Works
 
 | Project | Notes |
