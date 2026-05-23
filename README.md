@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/bio-gradient.svg" alt="某司算法工程师，关注搜广推、因果推断、大模型Agent等领域。" />
+  <img src="./assets/bio-gradient.svg" alt="Algorithm engineer, curious about search, ads, recommendations, causal inference, and LLM agents." />
 </p>
 
 <p align="center">
