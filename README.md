@@ -1,5 +1,3 @@
-<h1 align="center">llr-selfgit</h1>
-
 <p align="center">
   <img src="./assets/bio-gradient.svg" alt="某司算法工程师，关注搜广推、因果推断、大模型Agent等领域。" />
 </p>
